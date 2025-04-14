@@ -1,19 +1,10 @@
 {
-  "name": "kephsa-backend",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "Backend API for KEPHSA Research Hub",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
-    "body-parser": "^2.2.0",
-    "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "mongoose": "^8.13.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    // your dependencies here
   }
 }
